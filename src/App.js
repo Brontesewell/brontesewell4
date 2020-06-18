@@ -6,9 +6,6 @@ import EquestrianPage from './components/Equestrian/EquestrianPage'
 import WebPage from './components/Web/WebPage'
 import LandingPage from './components/LandingPage'
 
-function App(props) {
-  
-  return (
       // <Router>
            
       //   <Switch>
@@ -18,8 +15,13 @@ function App(props) {
       //   </Switch>
 
       // </Router>
+
+function App() {
+  return (
+    <div className="App">
       <WebPage />
 
+    </div>
   );
 }
 
