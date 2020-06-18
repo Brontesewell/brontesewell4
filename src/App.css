@@ -634,9 +634,9 @@ color: rgb(110, 109, 109);
 font-size: 15px;
 }
 
-@media only screen and (max-width: 1009px) {
+@media only screen and (max-width: 1071px) {
   .quote-text{
-    font-size: 14px !important;
+    font-size: 13px !important;
   }
 }
 
@@ -646,26 +646,45 @@ font-size: 15px;
   }
 }
 
+@media only screen and (max-width: 396px) {
+  .quote-text{
+    font-size: 12.5px !important;
+  }
+} 
+
 @media only screen and (max-width: 384px) {
   .quote-text{
     font-size: 12px !important;
   }
 } 
+
+@media only screen and (max-width: 375px) {
+  .quote-text{
+    font-size: 11.5px !important;
+  }
+} 
+
 @media only screen and (max-width: 365px) {
   .quote-text{
     font-size: 11px !important;
   }
 }
 
-@media only screen and (max-width: 345px) {
+@media only screen and (max-width: 355px) {
   .quote-text{
     font-size: 10px !important;
   }
 }
 
-@media only screen and (max-width: 325px) {
+@media only screen and (max-width: 334px) {
   .quote-text{
     font-size: 9px !important;
+  }
+}
+
+@media only screen and (max-width: 314px) {
+  .quote-text{
+    font-size: 8px !important;
   }
 }
 
