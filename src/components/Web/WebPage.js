@@ -157,7 +157,7 @@ class WebPage extends Component {
                             <br/> <br/> Since then I have had many clients building Full-Stack Web Apps, Mobile Apps, Wordpress Websites
                                 and more.</p>
                             
-                                <a href='#section3'><button  id="button-image-about" >Contact Me</button></a>
+                                <a href='#section5'><button  id="button-image-about" >Contact Me</button></a>
                                 <a href='#section4'> <button id="button-image-about" >My Portfolio</button></a>
                                 </Fade>
                         </Col>
@@ -191,7 +191,7 @@ class WebPage extends Component {
                             <br/> <br/> Since then I have had many clients building Full-Stack Web Apps, Mobile Apps, Wordpress Websites
                                 and more.</p>
                             
-                                <a href='#section3'><button  id="button-image-about" >Contact Me</button></a>
+                                <a href='#section5'><button  id="button-image-about" >Contact Me</button></a>
                                 <a href='#section4'> <button id="button-image-about" >My Portfolio</button></a>
                                 </Fade>
                         </Col>
