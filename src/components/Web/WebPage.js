@@ -197,7 +197,8 @@ class WebPage extends Component {
                         </Col>
                         
                     <Col md={4} className="fancy-small">
-                      
+
+
                         
                     <br></br>
             <br></br>
